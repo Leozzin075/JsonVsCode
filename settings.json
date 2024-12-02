@@ -1,0 +1,104 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": "symbols",
+    "window.commandCenter": false,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+
+
+
+    // General
+    "json.schemaDownload.enable": true,
+    "breadcrumbs.enabled": false,
+    "update.mode": "manual",
+    "update.showReleaseNotes": false,
+    "window.titleBarStyle": "native",
+    "window.customTitleBarVisibility": "never",
+    "window.menuBarVisibility": "toggle",
+    "window.restoreWindows": "all",
+    "files.associations": {
+      ".env.*": "dotenv"
+    },
+  
+    // Workbench
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.list.smoothScrolling": true,
+    "workbench.editor.labelFormat": "short",
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.editor.editorActionsLocation": "default",
+    "workbench.layoutControl.enabled": false,
+    // Editor
+    "editor.fontSize": 14,
+    "editor.lineHeight": 1.8,
+    "editor.rulers": [80, 120],
+    "editor.tabSize": 2,
+    "editor.suggestSelection": "first",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true,
+    "editor.parameterHints.enabled": true,
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.fontLigatures": true,
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.accessibilitySupport": "off",
+    "editor.semanticHighlighting.enabled": true,
+    "editor.inlineSuggest.enabled": true,
+    "editor.hideCursorInOverviewRuler": false,
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.vertical": "auto",
+    "editor.renderLineHighlight": "all",
+    "editor.quickSuggestions": {
+      "strings": "on"
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": "explicit"
+    },
+  
+    // Explorer
+    "explorer.compactFolders": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.sortOrder": "foldersNestsFiles",
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.patterns": {
+      "package.json": ".eslint*, .prettier*, tsconfig*, vite*, pnpm-lock*, bun.lockb, nest*, .yarn*, yarn.lock",
+      "tailwind.config.js": "tailwind.config*, postcss.config*",
+      "next.config.js": "next*",
+      ".env.local": ".env*",
+      ".env": ".env*"
+    },
+  
+    // Terminal
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.external.windowsExec": "wt",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+  
+    // Security
+    "security.workspace.trust.banner": "never",
+    "security.workspace.trust.startupPrompt": "never",
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.workspace.trust.enabled": false,
+    "window.density.editorTabHeight": "compact",
+    "C_Cpp.default.compilerPath": "c:\\Users\\souzza\\Documents\\Vscode\\logica\\ling_c\\main.c",
+    "open-php-html-js-in-browser.selectedBrowser": "Edge",
+    "php.validate.executablePath": "",
+    "[c]": {
+      
+
+      "editor.wordBasedSuggestions": "off",
+      "editor.suggest.insertMode": "replace",
+      "editor.semanticHighlighting.enabled": true
+    },
+    "cmake.showOptionsMovedNotification": false,
+    "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
+  
+  }
+
+
+  // Extençoes
+  // Nome: Min Theme
+  // https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme
+
+  // Nome: Symbols
+  // Link do Marketplace do VS: https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
